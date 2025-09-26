@@ -2,10 +2,6 @@ Duc Phu Nguyen · Software Engineer / Applied NLP
 
 Building practical AI systems end-to-end — from data to demo.
 
-Email
- · LinkedIn
- · GitHub
-
 About me
 
 Graduate of Seneca College (AI & Computer Programming), Toronto, ON

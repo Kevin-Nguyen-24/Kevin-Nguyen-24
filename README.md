@@ -17,7 +17,7 @@ Currently focusing on NLP: text classification, RAG, evaluation & reliability
 What I’m building now
 
 Dell Laptop Chatbot — RAG + Ollama (FastAPI · Qdrant · E5 · Gemma-2B)
-Grounded product Q&A with semantic search, multi-currency pricing, and guardrailed prompts.
+Grounded product Q&A with semantic search, multi-currency pricing, and guardrail prompts.
 Results: Recall@5 [A→B]%, P95 latency [C]s.
 Repo: https://github.com/Kevin-Nguyen-24/Chatbot_RAG
 
@@ -29,13 +29,12 @@ Featured projects
 
 IMDB Sentiment — DistilBERT + LoRA
 88.6% Acc / 88.6% F1 with PEFT; clean training/eval pipeline.
-https://github.com/Kevin-Nguyen-24/NLP/tree/main/Text_Classification_Sentiment_Analysis/IMDB_DistilBERT_LoRA
+https://github.com/Kevin-Nguyen-24/NLP 
 
 GPT-2 Literary Text Generation
 Fine-tuned GPT-2 on curated corpus; METEOR 0.50.
-https://github.com/Kevin-Nguyen-24/NLP/tree/main/Text_Generation_GPT
+https://github.com/Kevin-Nguyen-24/NLP
 
-More: Cat vs Dog (ResNet18, PyTorch) · AIG210 Transfer Learning (TF) · LSTM time-series
 
 Skills & tools
 
@@ -46,13 +45,6 @@ RAG & Data: Qdrant, TF-IDF, Pandas/NumPy, evaluation (Recall@k, MRR, PR-AUC, F1)
 Backend/DevOps: FastAPI, Flask, Next.js, Docker, Google Cloud Run, Ollama
 Viz: Matplotlib, Tableau
 
-Principles I work by
-
-Ship small, ship often. Demos beat slides.
-
-Measure everything. Accuracy and latency/cost.
-
-Ground the model. Retrieval + guardrails > raw prompting.
 
 Get in touch
 

@@ -1,41 +1,61 @@
-Duc Phu Nguyen's Dazzling Developer Profile
-Hello there! 👋 Welcome to the coding universe of Duc Phu Nguyen, a passionate programmer navigating the vast realms of Seneca College. 🚀
+Duc Phu Nguyen · Software Engineer / Applied NLP
 
-Who Am I?
-I'm Duc Phu Nguyen, an aspiring programmer on a mission to turn coffee into code and dreams into reality. Currently enrolled at Seneca College, 
-I'm immersing myself in the fascinating world of programming.
+Building practical AI systems end-to-end — from data to demo.
 
-🔍 Technical Prowess
-Languages: Fluent in the dialects of C, C++, and the rhythmic syntax of web languages.
+Email
+ · LinkedIn
+ · GitHub
 
-Tech Toolbox: Proficient in the mystical arts of OPS (Operating Systems) and APS (Application Programming), equipped with the knowledge to build and optimize digital landscapes.
+About me
 
-Data Sorcery: Well-versed in the magical realm of Data Structures and Algorithms (DSA), weaving efficient and elegant solutions.
+Graduate of Seneca College (AI & Computer Programming), Toronto, ON
 
-🚀 Academic Journey
-Embarking on a journey through Seneca College, I am honing my skills in programming and embracing the challenges that come with it. Each line of code is a step forward in this adventure.
+I ship: FastAPI services, RAG apps, OCR + LLM pipelines, and cloud deploys (Docker + Cloud Run)
 
-🌐 Web Wizardry
-Harnessing the power of the web, I am adept at crafting digital experiences that captivate and engage. HTML, CSS, and JavaScript are my trusty companions in this exciting quest.
+Currently focusing on NLP: text classification, RAG, evaluation & reliability
 
-Why Choose Duc Phu Nguyen?
-🎓 Academic Excellence: Dedicated to mastering the craft of programming through rigorous academic pursuits at Seneca College.
+What I’m building now
 
-💡 Innovative Solutions: A creative thinker who thrives on finding innovative solutions to complex problems.
+Dell Laptop Chatbot — RAG + Ollama (FastAPI · Qdrant · E5 · Gemma-2B)
+Grounded product Q&A with semantic search, multi-currency pricing, and guardrailed prompts.
+Results: Recall@5 [A→B]%, P95 latency [C]s.
+Repo: https://github.com/Kevin-Nguyen-24/Chatbot_RAG
 
-🤝 Team Player: Believes in the synergy of collaboration, contributing effectively to team dynamics.
+MedSmart — Prescription OCR + LLM (YOLOv8 · TrOCR · Flask/Next.js · Cloud Run)
+Two-stage pill detection + handwriting OCR + structured extraction.
+Live demo: scanmed…/diary (User: Kevin, Pass: 123456) · Code: https://github.com/Kevin-Nguyen-24/Capstone
 
-🌟 Passion-Driven: Fueled by a relentless passion for coding, turning challenges into opportunities for growth.
+Featured projects
 
-Connect With Me
-Ready to embark on a coding adventure together? Feel free to reach out and connect!
+IMDB Sentiment — DistilBERT + LoRA
+88.6% Acc / 88.6% F1 with PEFT; clean training/eval pipeline.
+https://github.com/Kevin-Nguyen-24/NLP/tree/main/Text_Classification_Sentiment_Analysis/IMDB_DistilBERT_LoRA
 
-📧 Email: kevin.nguyen240681@email.com
-🌐 LinkedIn: linkedin.com/in/ducphunguyen
-🐦 Twitter: @ducphucodes
-💻 GitHub: github.com/Kevin-Nguyen-24
-Let's code the future together! 🚀✨
-<!---
-Kevin-Nguyen-24/Kevin-Nguyen-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GPT-2 Literary Text Generation
+Fine-tuned GPT-2 on curated corpus; METEOR 0.50.
+https://github.com/Kevin-Nguyen-24/NLP/tree/main/Text_Generation_GPT
+
+More: Cat vs Dog (ResNet18, PyTorch) · AIG210 Transfer Learning (TF) · LSTM time-series
+
+Skills & tools
+
+Languages: Python, SQL, R, Bash
+NLP/ML: scikit-learn, Hugging Face (Transformers, PEFT/LoRA), Sentence-Transformers (E5), XGBoost
+CV/OCR: YOLOv8, TrOCR
+RAG & Data: Qdrant, TF-IDF, Pandas/NumPy, evaluation (Recall@k, MRR, PR-AUC, F1)
+Backend/DevOps: FastAPI, Flask, Next.js, Docker, Google Cloud Run, Ollama
+Viz: Matplotlib, Tableau
+
+Principles I work by
+
+Ship small, ship often. Demos beat slides.
+
+Measure everything. Accuracy and latency/cost.
+
+Ground the model. Retrieval + guardrails > raw prompting.
+
+Get in touch
+
+I’m open to SWE / Applied ML roles and collaborations.
+Email: kevin.nguyen240681@email.com
+ · LinkedIn: https://www.linkedin.com/in/duc-phu-nguyen-052289264/
